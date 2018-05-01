@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Modulus Divide</string>
+    <string name="banner1">Is your system strong enough to allow you to remain?</string>
+    <string name="banner2">Let our techs help you survive</string>
+    <string name="banner3">THE MODULUS DIVIDE</string>
+    <string name="banner4">Email: support@moddivide.com</string>
+    <string name="banner5">123 Main Street</string>
+    <string name="banner6">Anywhere, NE 68000</string>
+    <string name="banner7">Hours: 24/7</string>
+</resources>

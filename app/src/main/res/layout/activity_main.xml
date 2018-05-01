@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@style/AppTheme"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    style=""
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".24"
+        android:textSize="24sp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:text="@string/banner1"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/cyberpunkgirl"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".1"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:textSize="24sp"
+        android:text="@string/banner2"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".08"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#000000"
+        android:textColor="#67F383"
+        android:textSize="20sp"
+        android:text="@string/banner3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".08"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#000000"
+        android:textColor="#67F383"
+        android:textSize="20sp"
+        android:text="@string/banner4"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".08"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#000000"
+        android:textColor="#67F383"
+        android:textSize="20sp"
+        android:text="@string/banner5"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".08"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#000000"
+        android:textColor="#67F383"
+        android:textSize="20sp"
+        android:text="@string/banner6"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".089"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="#000000"
+        android:textColor="#67F383"
+        android:textSize="20sp"
+        android:text="@string/banner7"/>
+
+
+
+</LinearLayout>
